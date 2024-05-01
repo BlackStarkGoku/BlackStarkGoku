@@ -1,6 +1,8 @@
-### Hi there 👋
+![a4df9994bda7f1f368283c5ac1f66f5c](https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/9d8becf4-2d6a-46d6-9bd1-4390284bdb6e)
 
 <!--
+![08de1e2701e8880c89d599ec4c317481](https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/534bcfd2-585c-441e-af8a-4a0b2bc53b9d)
+![image](https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/1f15da0d-1d64-4a4d-b353-d4fb176546e5)
 **BlackStarkGoku/BlackStarkGoku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
