@@ -1,4 +1,5 @@
-![a4df9994bda7f1f368283c5ac1f66f5c](https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/9d8becf4-2d6a-46d6-9bd1-4390284bdb6e)
+
+<img src="https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/9d8becf4-2d6a-46d6-9bd1-4390284bdb6e" alt="Description de l'image" style="width: 100vw;">
 
 <!--
 ![08de1e2701e8880c89d599ec4c317481](https://github.com/BlackStarkGoku/BlackStarkGoku/assets/165695008/534bcfd2-585c-441e-af8a-4a0b2bc53b9d)
